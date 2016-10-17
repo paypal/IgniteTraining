@@ -21,7 +21,7 @@ Introduce the class and give an overview of how the class is structured. Specifi
 
 ### How And Why To Give An Ignite Talk - 5 Minutes
 
-Show the (How And Why To Give An Ignite Talk)[http://www.ignitetalks.io/videos/why-and-how-to-give-an-ignite-talk] Ignite Talk.
+Show the [How And Why To Give An Ignite Talk](http://www.ignitetalks.io/videos/why-and-how-to-give-an-ignite-talk) Ignite Talk.
 
 After the talk, reinforce that an Ignite talk is: 5 Minutes, 20 slides, 15 Seconds Per Slide, Automatically Advance.
 
@@ -77,7 +77,7 @@ Call out some specific phrases that may have been learned during previous speech
 
 Encourage speakers to jump as quickly into their subject matter, rather than spending the whole first slide saying who they are.
 
-Show a video that calls out aspects of storytelling. A good choice might be (What makes a story relatable?)[https://www.youtube.com/watch?v=xTM-AdrIpaE]
+Show a video that calls out aspects of storytelling. A good choice might be [What makes a story relatable?](https://www.youtube.com/watch?v=xTM-AdrIpaE)
 
 ### Demo The Slide Deck Template - 5 Minutes
 
@@ -85,21 +85,36 @@ Have students download the Slide Deck Template you created before class, and dem
 * Before downloading any pictures, students should put a couple words on each slide to remind them what their talking point will be there, so that there are no blank slides at the next iteration;
 * Long blocks of text will be distracting to both the audience and the speaker - both will be tempted to read the words, and will stop focusing on the story that is being told;
 * The best pictures serve as a backdrop to what the speaker is saying and to the story that is being told;
-* When searching for an image for a slide deck, be aware of (Fair Use)[https://en.wikipedia.org/wiki/Fair_use] as it applies or does not apply in the country where you are teaching;
+* When searching for an image for a slide deck, be aware of [Fair Use](https://en.wikipedia.org/wiki/Fair_use) as it applies or does not apply in the country where you are teaching;
 * For the purpose of the class, show users how to find the first image that is Good Enough For Now, insert it into the slide deck, and move on;
 * Remind users that getting too invested in finding the perfect image will make it challenging to complete their slide deck in the time allotted;
 * Remind students that the goal of the class is to learn the format, not to product a perfect slide deck;
 
 ### Slide Decoration - 30 Minutes
 
+Students should work independently to start filling out their slide deck, first with text, and then with pictures.
+
+Give them a five minute warning before Iteration Two begins.
+
 ### Iteration Two - 15 Minutes
-Feedback: Storytelling
+
+Students should pair up and give the current version of their talk. Provide the following guidance:
+* Pair up with someone new;
+* Encourage students to present this iteration while standing if possible. This will give them the best sense for what it will feel like to present to the class, and will make them aware of their body language;
+* Listeners do not need to keep time any longer, as the slide deck will automatically keep time for them;
+* After the five minutes have passed, the listener gives two minutes maximum of feedback;
+* Good Feedback Is:
+  * **Sensitive**
+  * **Relevant**
+  * **Actionable**
+* For Iteration Two, ask listeners to focus their feedback on the **Storytelling** - How is their story flowing? Do they have a narrative arch? Does all the content serve their story?
+* After two minutes max of feedback, the speaker and listener should trade places.
 
 ## Hour Three - Completing The Slide Deck
 
 ### Body Language - 5 Minutes
 
-Indicate that you haven't spent any time talking about presentation skills and body language, but that you are going to show a video on the subject.  Show the (‘Thought Leader’ gives talk that will inspire your thoughts)[https://www.youtube.com/watch?v=_ZBKX-6Gz6A] talk.
+Indicate that you haven't spent any time talking about presentation skills and body language, but that you are going to show a video on the subject.  Show the [‘Thought Leader’ gives talk that will inspire your thoughts](https://www.youtube.com/watch?v=_ZBKX-6Gz6A) talk.
 
 This talk serves two points. One is to open up a conversation about body language. The other is to provide a little comic relief a couple hours into the class.
 
@@ -117,11 +132,50 @@ Provide the following guidance:
 
 ### Finish Slides - 20 Minutes
 
-Give students another 20 minutes to continue to decorate their slides.
+Give students another 20 minutes to continue to decorate their slides. Encourage them to replace any remaining text.
 
 ### Iteration Three - 15 Minutes
-Feedback: Transitions
 
-### Solo Run
+Students should pair up and give the current version of their talk. Provide the following guidance:
+* Pair up with someone new;
+* After the five minutes have passed, the listener gives two minutes maximum of feedback;
+* Good Feedback Is:
+  * **Sensitive**
+  * **Relevant**
+  * **Actionable**
+* For Iteration Three, ask listeners to focus their feedback on the **Transitions** - Is what they are saying being reinforced by the slide that appears when they say it? Are they having to rush on slides, or drag slides out? Are they focused on their story over their slide?
+* After two minutes max of feedback, the speaker and listener should trade places.
+
+### Solo Run - 15 Minutes
+
+Encourage students to make any final changes to their slides, do a final run in private, and upload their completed slide decks to the shared folder you created, and use the restroom. Many students may choose to use this time solely to tweak their slide decks. The end goal is to have everyone's slide deck uploaded before presentations begin.
 
 ## Presentations
+
+Laptops should be closed during presentations, for the following reasons:
+* This prevents the final presenter from getting an hour more than the first presenter;
+* Presenting to an audience of people looking at their laptop screens can be demoralizing;
+* It makes it clear that last minute tweaks to the slides will not be accepted anyway;
+
+The order of presentations does not matter much. You may allow the class to self-select who goes next, use a random number generator to pick the next talk, or choose who speaks next.
+
+Provide the following guidance:
+* After each talk, the class will give feedback to the presenter;
+* Good Feedback Is:
+  * **Sensitive**
+  * **Relevant**
+  * **Actionable**
+
+After each talk, ask the class for feedback. Resist the urge to chime in first, and leave room for the other students to give their own feedback.
+
+Here are some things to pay attention to, and some common suggestions.
+
+**Body Language:** Speakers sometimes will feel compelled to pace, fidget or wander. This is common and works out to a place of comfort over time and practice. Speakers should not feel compelled to move about the stage unless the movement is in service of their talk.
+
+**Verbal Tics:** Most people have verbal tics (umm, ahh, err, like, ok, you know, right?) when they first start giving a talk. These are common and work out over time and with practice. Encourage speakers to record themselves rehearsing their talk, as this will help them become aware of improvements they can make.
+
+**Call To Action:** Including a call to action in a talk can be very powerful.
+
+## Conclusion
+
+Thank students for their time and feedback. Indicate you'll be sending out a survey. Encourage them to use each other as a resource when preparing talks in the future. Make yourself available for questions and mentorship.
