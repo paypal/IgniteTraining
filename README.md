@@ -1,6 +1,6 @@
 # Ignite Training
 
-These materials will enable anyone familiar with the Ignite format to teach the format to others.
+These materials will enable anyone familiar with the Ignite format to teach the format to others. If you are not familiar with the Ignite format, head over to http://ignitetalks.io to learn more.
 
 ## Why You Should Teach Ignite
 
@@ -29,13 +29,17 @@ The purpose of the class is to learn how to put together an Ignite talk, not to 
 
 ### Class Is A Safe Space
 
-Not all students will be at the same level of comfort when it comes to speaking in front of others. Your job as teacher is to protect the safety of the space. Focus feedback on what will improve the talk, and shut down any behavior that could alienate other students. 
+Not all students will be at the same level of comfort when it comes to speaking in front of others. Your job as teacher is to protect the safety of the space. Focus feedback on what will improve the talk, and shut down any behavior that could alienate other students.
 
 ## How To Use These Materials
 
-##
+The class schedule provided is for a Four Hour class. Ideal class size is between eight and twelve. Fewer than four will be challenging, and more than 16 will mean adding significant time at the end of the class for additional presentations. The goal is to be able to present the class in an afternoon while still being able to go home at a decent hour.
 
-##
+Review the [Class Schedule](Schedule-4-Hour.md) to get a sense for how the class is structured. You should thoroughly review the schedule before attempting to run the class, as some advance preparation is required.
+
+## Questions?
+
+If you have questions or comments, please an issue against this repo. We'd love to hear from you. If you are on Twitter, you can ask [Duane](https://twitter.com/DuaneOBrien) questions and he'll respond in a timely manner.
 
 ## License
 All materials in this repo are licensed under the Creative Commons [Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)
