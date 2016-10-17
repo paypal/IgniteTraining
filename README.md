@@ -37,6 +37,10 @@ The class schedule provided is for a Four Hour class. Ideal class size is betwee
 
 Review the [Class Schedule](Schedule-4-Hour.md) to get a sense for how the class is structured. You should thoroughly review the schedule before attempting to run the class, as some advance preparation is required.
 
+## Disclaimer
+
+These materials worked for us. We hope they'll work for you, and we hope you'll use them to bring Ignite to others. This is not intended to represent a canonical way to teach the Ignite format. If you have suggested improvements, we hope you'll submit them, or take this content and improve it so it fits your own needs.
+
 ## Questions?
 
 If you have questions or comments, please an issue against this repo. We'd love to hear from you. If you are on Twitter, you can ask [Duane](https://twitter.com/DuaneOBrien) questions and he'll respond in a timely manner.
