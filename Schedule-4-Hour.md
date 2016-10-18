@@ -57,7 +57,7 @@ Students should pair up and give the best version of their talk that they can. P
 * After the five minutes have passed, the listener gives two minutes maximum of feedback;
 * Good Feedback Is:
   * **Sensitive:** Not everyone is at the same level of public speaking ability, and may not english as their first language. Speakers should not be criticized over nervousness or language tics;
-  * **Relevant:** If the talk reminds the lister of a similar experience, this is not the time to share. Focus feedback on what will improve the talk;
+  * **Relevant:** If the talk reminds the listener of a similar experience, this is not the time to share. Focus feedback on what will improve the talk;
   * **Actionable:** Feedback should inform the speaker for what will make their talk better. The more specific, the better;
 * For Iteration One, ask listeners to focus their feedback on the **Hooks** - What about the talk pulled you in? When did the speaker become most energized? What did you want to hear more about?
 * After two minutes max of feedback, the speaker and listener should trade places.
