@@ -31,6 +31,7 @@ Ask the students to think of 3 topics about which they could speak. Provide the 
 * Audience members will buy into the passion students bring to their talk;
 * Good choices for a first talk are hobbies, core beliefs, secret pastimes, exciting experiences, spectacular failures;
 * Steer away from purely technical topics, unless the student feels they can speak passionately about the topic;
+* Choose specific instances of topics that might be overly broad, such as travel or cooking;
 
 ### Collectively Pick Topics - 10 Minutes
 
@@ -56,7 +57,7 @@ Students should pair up and give the best version of their talk that they can. P
 * If the speaker ends early, the listener should not cut them off or give feedback until the full five minutes have passed. It is important to feel what the full five minutes feels like;
 * After the five minutes have passed, the listener gives two minutes maximum of feedback;
 * Good Feedback Is:
-  * **Sensitive:** Not everyone is at the same level of public speaking ability, and may not english as their first language. Speakers should not be criticized over nervousness or language tics;
+  * **Sensitive:** Not everyone is at the same level of public speaking ability, and may not have english as their first language. Speakers should not be criticized over nervousness or language tics;
   * **Relevant:** If the talk reminds the lister of a similar experience, this is not the time to share. Focus feedback on what will improve the talk;
   * **Actionable:** Feedback should inform the speaker for what will make their talk better. The more specific, the better;
 * For Iteration One, ask listeners to focus their feedback on the **Hooks** - What about the talk pulled you in? When did the speaker become most energized? What did you want to hear more about?
