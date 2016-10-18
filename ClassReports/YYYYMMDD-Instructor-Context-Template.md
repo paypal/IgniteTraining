@@ -8,7 +8,7 @@ This is a 2-3 sentence summary of how the class went. Don't dig into too many de
 
 # Attendance
 
-How many signed up, how many attended, how many didn't show. Was anyone late? Did anyone leave part way thru? You shouldn't list student names here, just counts.
+How many signed up, how many attended, how many didn't show. Was anyone late? Did anyone leave part way through? You shouldn't list student names here, just counts.
 
 # What Worked
 
