@@ -51,7 +51,7 @@ The next step is to decompose the topic into 4-5 points to be covered in the tal
 Give students a couple minutes warning before kicking off the first iteration.
 
 Students should pair up and give the best version of their talk that they can. Provide the following guidance:
-* If there are many students in the room, some will need to leave the room for this section or the noise will make it hard for others. If this is necessary, drive home the need for a punctual return;
+* If there are many students in the room, some will need to leave the room for this section or the noise will make it hard for others. If this is necessary, emphasize the need for a punctual return;
 * In each pair, whoever gives their talk first, their only job is to speak for 5 full minutes about their subject;
 * In each pair, whoever is listening first, their two jobs are to keep time (with a phone timer or stopwatch), and to listen so they can provide good feedback;
 * If the speaker ends early, the listener should not cut them off or give feedback until the full five minutes have passed. It is important to feel what the full five minutes feels like;
