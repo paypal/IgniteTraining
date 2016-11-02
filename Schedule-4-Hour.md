@@ -1,4 +1,6 @@
-# Outline for a 4 hour class
+# Outline For A 4 Hour Ignite Training Workshop
+
+This outline covers the material necessary to present a four hour workshop to first time Ignite speakers,  walking them through the creation of their first Ignite talk.
 
 ## Prerequisites
 
